@@ -1,0 +1,11 @@
+# Ignore virtual environment folder
+venv/
+
+# Ignore environment variable files
+.env
+
+# Ignore other OS or IDE-specific files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
